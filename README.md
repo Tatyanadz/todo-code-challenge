@@ -1,5 +1,5 @@
 # todo-code-challenge
 
 
-Use <npm start> command for FrontEnd 
-Use <npm run dev> to connect to MongoeDb 
+npm start - connect to localhost </br>
+npm run dev - connect to MongoeDB
